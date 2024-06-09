@@ -9,6 +9,9 @@
   background-color: #07041b;
   margin-top: 100px;
   position: relative;
+  div > img {
+    height: 200px;
+  }
   @include breakpoints(tablet) {
     margin-top: 0px;
   }

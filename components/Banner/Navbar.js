@@ -12,7 +12,7 @@ const Navbar = () => {
     <nav className="container nav">
       {/* left nav bar */}
       <section className="">
-        <img className="logo" src="/images/svg/logo.svg" alt="Logo" />
+        <img className="logo" src="/logo.png" alt="Logo" />
       </section>
       <section className="">
         <ul className="desktop_ul">

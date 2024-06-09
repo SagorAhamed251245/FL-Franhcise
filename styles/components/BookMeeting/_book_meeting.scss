@@ -1,5 +1,5 @@
 .book_meeting_section {
-  background-color: #5831f00d;
+  background-color: #f6f4fe;
   // height: 675px;
   display: flex;
   justify-content: center;
@@ -173,7 +173,7 @@
           font-size: 20px;
           font-weight: bolder;
           border-radius: 10px;
-          background-color: #5831f0;
+          background-color: #ff0000;
           border: none;
           color: white;
           @include breakpoints(tablet) {

@@ -17,8 +17,8 @@ const LeftSide = () => {
       <div>
         <div className="founder_contact">
           <div>
-            <h4 className="title">Shiblu Ahmad</h4>
-            <p className="p1">Principal, TS4U</p>
+            <h4 className="title">Ibrahim Opu</h4>
+            <p className="p1">Founder, Quantumburst Solutions LLC</p>
           </div>
           <Link
             target="_blank"
@@ -35,10 +35,10 @@ const LeftSide = () => {
         </div>
 
         <p className="into_p">
-          Hi, my name is Shiblu Ahmad, and I’m the principal at TS4U. I am a
-          Bangladeshi-born American with over 20 years of experience in the IT
-          Industry. I have worked at many reputable companies in the USA and
-          throughout my career.
+          Hi, my name is Ibrahim Opu, and I’m the founder of Quantumburst
+          Solutions LLC. I am a Bangladeshi-born American with over 20 years of
+          experience in the IT Industry. I have worked at many reputable
+          companies in the USA and throughout my career.
         </p>
       </div>
       {/* experiences  */}

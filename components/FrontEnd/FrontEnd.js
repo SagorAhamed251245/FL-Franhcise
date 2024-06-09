@@ -16,7 +16,7 @@ const FrontEnd = () => {
 
         <RecommendationForCourse
           titleColor={"white"}
-          LessThenColor={"#5831f0"}
+          LessThenColor={"#ff0000"}
           btnChildren={"Book a meeting"}
           primaryBtn={false}
         />

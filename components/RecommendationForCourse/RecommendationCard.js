@@ -12,7 +12,7 @@ const RecommendationCard = ({ review, name, image }) => {
             <div>
               <p className="user_name">{name}</p>
               <p className="p">Students of TS4U</p>
-              {/* <Vector color={"#0065FF"} /> */}
+              {/* <Vector color={"#ff0000"} /> */}
             </div>
             <div>
               <img src="/images/svg/cotation.svg" />

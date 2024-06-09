@@ -15,13 +15,13 @@ const ServicesCard = ({ i, url, text, classNames }) => {
         <p>{text}</p>
 
         <Vector
-          color={i === 0 ? "#0065FF" : "#C0D1FE"}
+          color={i === 0 ? "#ff0000" : "#f27272"}
           classNames="large-vector"
         />
 
         <Vector
           size={"35"}
-          color={i === 0 ? "#0065FF" : "#C0D1FE"}
+          color={i === 0 ? "#ff0000" : "#f27272"}
           classNames="mobile-vector"
         />
       </>

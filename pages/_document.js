@@ -4,9 +4,9 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
-        <title>inquiry.ts4u.us</title>
+        <title>Quantumburst Solutions LLC</title>
         {/* Other meta tags */}
-        <meta property="og:image" content="public/images/image/themble.jpg" />
+        <meta property="og:image" content="/public/images/image/themble.jpg" />
       </Head>
       {/* <CustomHead /> */}
       <body className="max_container">

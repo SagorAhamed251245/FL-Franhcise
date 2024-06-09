@@ -29,7 +29,7 @@ const SingleCard = ({ name, review, image }) => {
         <img src="/images/svg/stars.svg" style={{ width: "150px" }} />
       </div>
 
-      <Vector color={"#0065FF"} />
+      <Vector color={"#ff0000"} />
       <div className="ab_image">
         <img src="/images/svg/cotation.svg" />
       </div>

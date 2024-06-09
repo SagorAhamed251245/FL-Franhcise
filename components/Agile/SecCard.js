@@ -67,7 +67,7 @@ const SecCard = () => {
           <button className={"book_a_meeting_2"}>
             Book a meeting
             <span>
-              <LessThen color={"#5831f0"} />
+              <LessThen color={"#ff0000"} />
             </span>
           </button>
         </Link>
